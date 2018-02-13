@@ -7,6 +7,14 @@ body {
   padding-bottom: 680px; // 650 of footer height plus 30 margin-bottom
 }
 
+/* nav {
+   display:block!important;
+} */
+
+#button {
+  float: right;
+}
+
 .orange-dot {
   color: #ed6f2f;
 }
@@ -92,6 +100,15 @@ hr {
   background-color: #ed6f2f;
 }
 
+a {
+  color: #323638;
+}
+
+a:hover {
+  color: #ed6f2f;
+  text-decoration: none;
+}
+
 .navbar-expand-lg .navbar-nav {
   width: 100%
 }
@@ -107,9 +124,9 @@ hr {
 .navbar-expand-lg .show>ul>.nav-item {
   text-align: right;
   width: 100%;
-  -webkit-transition: all 0.4s ease-in-out;
-     -moz-transition: all 0.4s ease-in-out;
-          transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.1s ease-in-out;
+     -moz-transition: all 0.1s ease-in-out;
+          transition: all 0.1s ease-in-out;
 }
 
 .nav-item {
@@ -259,7 +276,7 @@ p {
 }
 
 .sticky-nav {
-  min-height: 80px;
+  min-height: 70px;
   z-index:5;
   position:-webkit-sticky;
   position:sticky;
@@ -267,21 +284,21 @@ p {
 }
 
 .sticky-subnav {
-  height: 58px;
+  height: 70px;
   z-index:4;
   position:-webkit-sticky;
   position:sticky;
-  top: 80px;
+  top: 70px;
   box-shadow: 0px 4px 5px #343a40;
   /* width: 2000px; */
 }
 
 .sticky-card-title {
-  min-height: 80px;
+  min-height: 70px;
   z-index:2;
   position:-webkit-sticky;
   position:sticky;
-  top: 138px;
+  top: 140px;
 }
 
 .card {
@@ -364,7 +381,7 @@ hr {
   height: 100%;
 }
 
- .subnav-word i, a:hover {
+ .subnav-word i a:hover {
    text-decoration: none;
    color: white;
  }
@@ -400,6 +417,10 @@ button:focus {
   padding-left: 20px;
 }
 
+.navbar-brand {
+  margin-left: 1rem;
+}
+
 @media only screen and (max-width: 768px) {
 
 .scrollable-menu {
@@ -416,4 +437,76 @@ button:focus {
 .dropdown > .dropdown-toggle:active {
     /*Without this, clicking will make it sticky*/
     pointer-events: none;
+}
+
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    /* background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat; */
+    background-size: cover;
+    transition: 1s opacity;
+}
+.stopfade {
+   opacity: .5;
+}
+
+#wild {
+  font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
+  font-weight:100;
+  background: rgba(0,0,0,0.3);
+  color: white;
+  padding: 2rem;
+  min-width: 360px;
+  max-width: 50%;
+  margin:10px;
+  float: right;
+  font-size: 1.2rem;
+}
+#wild h1 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  margin-top: 0;
+  letter-spacing: .3rem;
+}
+#wild button {
+  display: block;
+  width: 80%;
+  padding: .4rem;
+  border: none;
+  margin: 1rem auto;
+  font-size: 1.3rem;
+  background: rgba(255,255,255,0.23);
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: .3s background;
+}
+#wild button:hover {
+   background: rgba(0,0,0,0.5);
+}
+
+#wild a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  background:rgba(0,0,0,0.5);
+  padding: .5rem;
+  transition: .6s background;
+}
+#wild a:hover{
+  background:rgba(0,0,0,0.9);
+}
+
+@media screen and (max-device-width: 800px) {
+  #bgvid {
+    /* max-width: 1000px; */
+    /* top: 250px; */
+  }
 }
