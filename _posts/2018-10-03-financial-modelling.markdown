@@ -2,8 +2,8 @@
 layout: post
 title: Financial Modelling
 date: 2018-10-03 12:59:00 +0000
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: financial-model.png # Add image post (optional)
+description: What is financial modelling? We delve into startup finance 101.
+img: financial-model.png
 tags: [Accounting, Education, Finance, Business]
 ---
 
