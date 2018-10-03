@@ -6,4 +6,4 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: hello-world.png # Add image post (optional)
 tags: [Feedback]
 ---
-Welcome to the blog! This post is a space for you to write any feedback and requests for posts you'd like to see. I'll mainly be writing about business, but will dive into a whole range of topics. Don't be afraid to leave a comment below if you read this!
+Welcome to the blog! Use the comment section below to write feedback and requests for content you'd like to see. What problems are you facing in your business right now? How can I help you? Let me know!

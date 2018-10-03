@@ -3,8 +3,8 @@ layout: post
 title: Job Costing
 date: 2018-03-08 12:59:00 +0000
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: money.jpg # Add image post (optional)
-tags: [Accounting, Education]
+img: job-costing.png # Add image post (optional)
+tags: [Accounting, Education, Finance, Business]
 ---
 
 Job costing is a practice in accounting that tracks the costs (e.g. materials, labour, and overhead) and revenues by "job", which enables standardised reporting of profitability by job.
