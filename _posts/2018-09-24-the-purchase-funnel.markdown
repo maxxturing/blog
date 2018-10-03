@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Purchase Funnel?
+title: The Purchase Funnel
 date: 2018-09-24 14:08:00 +0100
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: funnel.png # Add image post (optional)

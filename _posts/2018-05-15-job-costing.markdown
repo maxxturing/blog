@@ -1,11 +1,17 @@
 ---
 layout: post
-title: What is Job Costing?
+title: Job Costing
 date: 2018-03-08 12:59:00 +0000
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: money.jpg # Add image post (optional)
 tags: [Accounting, Education]
 ---
+
+Job costing is a practice in accounting that tracks the costs (e.g. materials, labour, and overhead) and revenues by "job", which enables standardised reporting of profitability by job.
+
+We can break costs down into the following:
+
+-
 
 | Direct Manufacturing Costs | Description |
 | --- |
@@ -14,7 +20,7 @@ tags: [Accounting, Education]
 
 -
 
-| Manufacturing overhead | Production costs that are not direct material or labour costs
+| Manufacturing Overhead | Production costs that are not direct material or labour costs
 | --- |
 | Indirect Materials | Costs for materials that are not easily traced to individual products e.g. glue, nails
 | Indirect Labour | Labour that supports production, but not working on inventory
@@ -28,7 +34,7 @@ tags: [Accounting, Education]
 
 -
 
-### Determining Inventory Costs
+# Determining Inventory Costs
 
 | Costing | Description |
 | --- |
@@ -37,42 +43,42 @@ tags: [Accounting, Education]
 
 -
 
-* Inventory account (on balance sheet) has separate journal entries for:
+The inventory account, which can be found on the balance sheet, has separate journal entries for:
 * Raw materials
 * Work-in-process
-* Finished goods - ready for sale
+* Finished goods (ready for sale)
 
-Only once inventory is sold that accumulated costs of producing the inventory is expensed through COGS
+It's only once inventory is sold that accumulated costs of producing the inventory is expensed through COGS.
 
-## Job Costing as a Service
+# Job Costing as a Service
+
+The accounting nomenclature differs for a product vs a service:
 
 | Product Version | Service Version |
 | --- | |
 | Raw materials inventory | Materials
-| Work-in-process inventory | work-in-Process
-| Finished goods inventory | completed services
-| Cost of goods sold | cost of services
-| Manufacturing overhead | overhead
+| Work-in-process inventory | Work-in-process
+| Finished goods inventory | Completed services
+| Cost of goods sold | Cost of services
+| Manufacturing overhead | Overhead
 
-* The resource whose use is the primary driver of overhead costs is known as the cost driver
+* The resource whose use is the primary driver of overhead costs is known as the **cost driver**
 * Predetermined overhead rate = estimated overhead / estimated total cost driver
 * To reconcile extra debit to overhead = debit cost of services, credit overhead
 
 If predetermined overhead is too low then either
-- total overhead was underestimated
-- total labour hours were overestimated
+- Total overhead was underestimated
+- Total labour hours were overestimated
 
-## Activity-based costing
+# Activity-based costing
 
-When overhead is assigned using a single predetermined rate based on a single cost driver such as labour hours, this is known as plantwide costing
+When overhead is assigned using a single predetermined rate based on a single cost driver such as labour hours, this is known as **plantwide costing**.
 
-Activity based costing (ABC) assigns overhead to cost objects - such as hockey sticks - using several cost pools based on the activities required to produce them
+Activity based costing (ABC) assigns overhead to cost objects - such as hockey sticks - using several cost pools based on the activities required to produce them.
 
-A cost pool is a collection of overhead Costs
+A **cost pool** is a collection of overhead costs. Cost pools are organised by activities such as purchasing materials, running machines, inspecting finished goods, etc.
 
-Cost pools are organised by activities such as purchasing materials, running machines, inspecting finished goods, etc
-
-# Variable costing vs. Absorption Costing
+# Variable Costing vs. Absorption Costing
 
 * Absorption costing - overhead is entirely absorbed by COGS when inventory is sold to customers
 
