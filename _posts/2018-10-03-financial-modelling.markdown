@@ -34,14 +34,14 @@ We can break a financial model down into five key components:
 
 The stage your business is at will determine how complex of a financial model you'll need. If you're very early on you might just need the some classic revenue calculations on the back of a napkin. Or you might want to use a spreadsheet tool to quickly estimate your projected costs like below:
 
-![Burn]({{site.baseurl}}/assets/img/burn.png)
+![Burn]({{site.baseurl}}/assets/img/burn.PNG)
 
 If you're a little further along you might want to consider using a tool such as [FUTRLI](https://www.futrli.com/) or constructing your own spreadsheet model of higher complexity.
 
 A simple model can be created using a **balance sheet**, **income statement** and **cash flow statement**, connecting these together using formulae and projecting forward. A good way to construct your model is to create another sheet specifically for your **assumptions**, which feed into the model and create the newly predicted sheet and statements.
 
-<img src="{{site.baseurl}}/assets/img/balance-sheet.png" width="330">
-<img src="{{site.baseurl}}/assets/img/income-statement.png" width="330">
-<img src="{{site.baseurl}}/assets/img/cash-flow-statement.png" width="330">
+<img src="{{site.baseurl}}/assets/img/balance-sheet.PNG" width="330">
+<img src="{{site.baseurl}}/assets/img/income-statement.PNG" width="330">
+<img src="{{site.baseurl}}/assets/img/cash-flow-statement.PNG" width="330">
 
 There are also many templates available online, such as this [Early Stage SaaS Financial Model Template](https://docs.google.com/spreadsheets/d/1x_X8BBgQPb7RXzc4tqo7CDx4sUTTFNktXt81NLsNJb4/edit#gid=0), mentioned in [this article](https://medium.com/the-mission/simple-saas-financial-model-for-early-stage-startups-13895d07b2be). [ProfitWell](https://www.profitwell.com/) can also help you to calculate your metrics.
