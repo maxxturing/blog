@@ -14,7 +14,7 @@ The purchase funnel, otherwise known as the sales funnel or the "path to purchas
 
 It's called a funnel as the idea is to move customers towards purchasing your product or service through various stages. The first stage having the widest reach and the following stages becoming more specialised and targeted, thus the customer population decreases through the stages.
 
-A number of factors will determine how you execute a marketing plan for your purchase funnel. Are you B2B or B2C? Have defined the specific group of people you want to sell your product or service to, i.e. your **target market**? Have you constructed a **Situation Analysis** to better understand your business' position and environment?
+A number of factors will determine how you execute a marketing plan for your purchase funnel. Are you B2B or B2C? Have defined the specific group of people you want to sell your product or service to, i.e. your **target market**? Have you constructed a **situation analysis** to better understand your business' position and environment?
 
 Think about your current:
 * **Market share** - the percentage of customers / total spending / percentage total units sold
@@ -29,7 +29,7 @@ The first step in the purchase funnel is to create awareness around your busines
 The second stage of the funnel is interest. At this point the customer has awareness about the kinds of products or services you provide and so they will be looking for more information. It's important to provide concise and useful information and answer any questions the customer might have. A classic example of this would be a landing page that clearly communicates the value proposition of a product or service. Perhaps the page has an FAQ section or an integrated chatbox to allow instant communication with a sales representative.
 
 # Desire
-At this stage the customer's interest has converted into a desire for the product or service. They develop a **consideration set**, which is a specific group of products they evaluate and compare to make a purchase decision. This way they can evaluate the available the options available to them in order to make the best decision for them.
+At this stage the customer's interest has converted into a desire for the product or service. They develop a **consideration set**, which is a specific group of products they evaluate and compare to make a purchase decision. This way they can evaluate the options available to them in order to make the best decision.
 
 # Action
 In the final stage of the funnel the challenge is to convert the customer's intentions into action. This can be achieved by tailoring/personalising an offer, providing price estimates, free trials or discounts. Anything that might push a customer over the edge into making a purchase with you as opposed to alternative options in their consideration set. It's important to understand what drives the customer and what is causing the delay in taking action in order to tailor an incentive that meets your customer's needs.
