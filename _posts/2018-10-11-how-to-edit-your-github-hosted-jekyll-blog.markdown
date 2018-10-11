@@ -19,7 +19,7 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
 * Right click on a post in the posts folder and duplicate it
 * You'll be prompted to rename the file
   * Update the date (YYYY-MM-DD)
-  * Update the name of the post (be sure to add dashes where there should be spaces and omit punctuation)
+  * Update the name of the post (be sure to add dashes where there should be spaces and omit capitalisation and punctuation)
   * Note that each post is a Markdown file and so must end with the file extension .md
 * Open the file and edit the details in the top of the file
   * Title - Title of your post
