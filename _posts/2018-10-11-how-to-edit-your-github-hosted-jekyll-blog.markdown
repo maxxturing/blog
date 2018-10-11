@@ -12,7 +12,7 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
 * Download [Atom](https://atom.io/)
 * Clone your GitHub blog repository
   * It should look something like this: https://github.com/username/username.github.io/
-  * To clone click the green clone or download button.
+  * To clone click the green **Clone or download** button.
 * If you're collaborating on the project and it's been a while since you cloned then make sure to click **Fetch origin** in GitHub Desktop before making any edits
 * Open Atom and open your blog folder, it should be sitting inside your computer's GitHub folder
 * Open the posts folder (note that it has an underscore before its name)
