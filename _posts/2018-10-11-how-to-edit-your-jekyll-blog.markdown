@@ -13,12 +13,19 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
 * Clone your GitHub blog repository
   * It should look something like this: https://github.com/username/username.github.io/
   * To clone click the green clone or download button.
-* If you're collaborating on the project and it's been a while since you cloned then make sure to click Fetch origin in GitHub Desktop before making any edits
-* Open your blog folder in Atom, it should be inside your GitHub folder
+* If you're collaborating on the project and it's been a while since you cloned then make sure to click **Fetch origin** in GitHub Desktop before making any edits
+* Open Atom and open your blog folder, it should be sitting inside your computer's GitHub folder
 * Open the posts folder (note that it has an underscore before its name)
-* Right click on a post and duplicate it (note the post is a .md file)
-* Rename the file name according to the correct date and name of the post (put dashes where there should be spaces and omit punctuation)
-* Open the file and edit the details in the top of the file (title, date, description, tags)
+* Right click on a post in the posts folder and duplicate it
+* You'll be prompted to rename the file
+  * Update the date (YYYY-MM-DD)
+  * Update the name of the post (be sure to add dashes where there should be spaces and omit punctuation)
+  * Note that each post is a Markdown file and so must end with the file extension .md
+* Open the file and edit the details in the top of the file
+  * Title - Title of your post
+  * Date - current date
+  * Description - a short description of the post
+  * Tags - tags for grouping posts and searching
 * Underneath the content at the top (on a new line after the triple dash) you can start writing. If you've already written your post elsewhere then just paste it in.
 * Format your post
   * If you want to hyperlink a word or phrase, surround it with square brackets and then immediately follow the square brackets (no spaces) with parenthesis including the URL
