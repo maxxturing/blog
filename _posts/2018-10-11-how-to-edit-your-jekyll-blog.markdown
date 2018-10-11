@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to Edit your GitHub-hosted Jekyll Blog
-date: 2018-01-17 20:45:20 +0200
+date: 2018-10-11 19:45:20 +0200
 description: # Add post description (optional)
-img: hello-world.png # Add image post (optional)
+img: edit.jpeg # Add image post (optional)
 tags: [How-to]
 ---
 
