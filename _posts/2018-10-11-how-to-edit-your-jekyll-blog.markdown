@@ -27,4 +27,4 @@ For more formatting tips use this [cheatsheet](https://github.com/adam-p/markdow
 12. Make sure you have saved your md file (Ctrl + s) and then open Github desktop
 13. At the bottom left where it says summary, add a summary of the changes, e.g. New blog post about cute dogs
 14. Hit the button that says commit to master
-15. Hit publish
+15. Hit the button that says Push origin
