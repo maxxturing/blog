@@ -69,3 +69,10 @@ Here are some ideas for (mainly London-based) team activities:
 - Junk Yard Golf just off Brick Lane
 - Tayyabs curry
 - Urban Photography course around Old St area (this was great, loads of hidden curios and ends in a fish and chip shop run by the same guy for 30 years. Oh and you get some great technique advice).
+- Wildlife drawing (they bring live creatures like meercats and foxes to your office and lead a drawing class it's amazing)
+- Hampstead heath ghost tour (around Halloween only, brilliant guided tour of haunted pubs around Hampstead, with actors to play the ghosts. Includes a walk across Hampstead Heath in the dark. V spooky)
+- Korean kimbap making class
+- Samba band (they come and teach you to play all the drums and by the end you work together to perform a song together)
+- Summer sports day & picnic
+- Street art tour
+- Ping pong and/or pool tournament
