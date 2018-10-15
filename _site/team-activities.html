@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 		<meta charset="utf-8">
-	<title>How to Edit your GitHub-hosted Jekyll Blog - Mark W. Firth</title>
+	<title>Team Activities - Mark W. Firth</title>
 
   <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
 
     <meta content="Mark W. Firth" property="og:site_name">
   
-    <meta content="How to Edit your GitHub-hosted Jekyll Blog" property="og:title">
+    <meta content="Team Activities" property="og:title">
   
   
     <meta content="article" property="og:type">
@@ -18,21 +18,27 @@
 " property="og:description">
   
   
-    <meta content="http://localhost:4000/how-to-edit-your-github-hosted-jekyll-blog" property="og:url">
+    <meta content="http://localhost:4000/team-activities" property="og:url">
   
   
-    <meta content="2018-10-11T18:45:20+01:00" property="article:published_time">
+    <meta content="2018-10-15T09:08:00+01:00" property="article:published_time">
     <meta content="http://localhost:4000/about/" property="article:author">
   
   
-    <meta content="http://localhost:4000/blog/assets/img/edit.jpeg" property="og:image">
+    <meta content="http://localhost:4000/blog/assets/img/team.jpeg" property="og:image">
   
   
     
   
   
     
-    <meta content="How-to" property="article:tag">
+    <meta content="Business" property="article:tag">
+    
+    <meta content="People" property="article:tag">
+    
+    <meta content="HR" property="article:tag">
+    
+    <meta content="Events" property="article:tag">
     
   
 
@@ -40,17 +46,17 @@
     <meta name="twitter:site" content="@markwf">
     <meta name="twitter:creator" content="@markwf">
   
-    <meta name="twitter:title" content="How to Edit your GitHub-hosted Jekyll Blog">
+    <meta name="twitter:title" content="Team Activities">
   
   
-    <meta name="twitter:url" content="http://localhost:4000/how-to-edit-your-github-hosted-jekyll-blog">
+    <meta name="twitter:url" content="http://localhost:4000/team-activities">
   
   
     <meta name="twitter:description" content="Personal website of Mark W. Firth
 ">
   
   
-    <meta name="twitter:image:src" content="http://localhost:4000/blog/assets/img/edit.jpeg">
+    <meta name="twitter:image:src" content="http://localhost:4000/blog/assets/img/team.jpeg">
   
 
 	<meta name="description" content="">
@@ -269,75 +275,96 @@
   <div class="page-content">
     
     <div class="page-cover-image">
-      <img class="page-image" src=/blog/assets/img/edit.jpeg alt="How to Edit your GitHub-hosted Jekyll Blog">
+      <img class="page-image" src=/blog/assets/img/team.jpeg alt="Team Activities">
     </div> <!-- End Page Cover Image -->
     
     <div class="wrap-content">
       <header class="header-page">
-        <h1 class="page-title">How to Edit your GitHub-hosted Jekyll Blog</h1>
-        <div class="page-date"><span>2018, Oct 11&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        <h1 class="page-title">Team Activities</h1>
+        <div class="page-date"><span>2018, Oct 15&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
-      <p>So! You’ve got a Jekyll blog hosted on GitHub and you have no idea how to add new posts? You’ve found just the right blog post then! The first thing you need to do is set up your development environment.</p>
+      <p>Team activities are great for:</p>
 <ul>
-  <li>Download <a href="https://desktop.github.com/">GitHub Desktop</a></li>
-  <li>Download <a href="https://atom.io/">Atom</a></li>
-  <li>Clone your GitHub blog repository
-    <ul>
-      <li>It should look something like this: https://github.com/[GitHub-username-or-Organisation-name]/blog/</li>
-      <li>To clone click the green <strong>Clone or download</strong> button.</li>
-    </ul>
-  </li>
-  <li>If you’re collaborating on the project and it’s been a while since you cloned then make sure to click <strong>Fetch origin</strong> in GitHub Desktop before making any edits</li>
-  <li>Open Atom and open your blog folder, it should be sitting inside your computer’s GitHub folder</li>
-  <li>Open the posts folder (note that it has an underscore before its name)</li>
-  <li>Right click on a post in the posts folder and duplicate it</li>
-  <li>You’ll be prompted to rename the file
-    <ul>
-      <li>Update the date (YYYY-MM-DD)</li>
-      <li>Update the name of the post (be sure to add dashes where there should be spaces and omit capitalisation and punctuation)</li>
-      <li>Note that each post is a Markdown file and so must end with the file extension .md</li>
-    </ul>
-  </li>
-  <li>Open the file and edit the details in the top of the file
-    <ul>
-      <li>Title - Title of your post</li>
-      <li>Date - current date</li>
-      <li>Description - a short description of the post</li>
-      <li>Tags - tags for grouping posts and searching</li>
-    </ul>
-  </li>
-  <li>Underneath the content at the top (on a new line after the triple dash) you can start writing. If you’ve already written your post elsewhere then just paste it in.</li>
-  <li>Format your post
-    <ul>
-      <li>If you want to hyperlink a word or phrase, surround it with square brackets and then immediately follow the square brackets (no spaces) with parenthesis including the URL</li>
-      <li>If you want to make a word italics add an asterisk either side of it</li>
-      <li>If you want to make a word bold add two asterisks either side of it</li>
-      <li>For more formatting tips use this <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">cheatsheet</a></li>
-    </ul>
-  </li>
-  <li>Add the image for the blog post
-    <ul>
-      <li>Save the image that you want to use into the img folder (can be found under assets)</li>
-      <li>Update the data at the top of your md file blog post to include the name of the image file</li>
-      <li>Make sure the name and file extension are an exact match (including capitalisation e.g. .png/.PNG/.jpg/.JPG/.jpeg/.JPEG) otherwise your image might not show</li>
-    </ul>
-  </li>
-  <li>Save your md file (Ctrl + s)</li>
-  <li>Open GitHub Desktop</li>
-  <li>Add a <strong>Summary</strong> of the changes in the input box in the bottom left, e.g. New blog post about cute dogs</li>
-  <li>Click the <strong>Commit to master</strong> button</li>
-  <li>Click the <strong>Push origin</strong> button</li>
+  <li>Building camaraderie among employees</li>
+  <li>Strengthening work and social relationships</li>
+  <li>Mixing members of the team that otherwise don’t interact much - encourage cross-functional collaboration and understanding</li>
+  <li>Challenging people to work together and solve problems together</li>
+  <li>Providing enjoyable and memorable experiences that help you acquire and retain good staff</li>
+  <li>Improving the work environment</li>
+</ul>
+
+<p>Think about what outcome you’re looking for from your activity and what your budget is. Consider which activities match your team’s culture and which might alienate some (e.g. drinking-based activities might prevent some of your team from participating).</p>
+
+<p>Here are some ideas for (mainly London-based) team activities:</p>
+<ul>
+  <li>Bowling</li>
+  <li>Darts</li>
+  <li>Crazy golf</li>
+  <li>Escape room</li>
+  <li>Poker night (with a professional dealer - highly recommended)</li>
+  <li>Boat</li>
+  <li>Chocolate truffle making class</li>
+  <li>Drinking activities</li>
+  <li><a href="http://londonterrariums.com/">Terrarium workshop</a> (will come to office)</li>
+  <li>Pottery class</li>
+  <li>Rounders</li>
+  <li>BBQ + rounders - local park</li>
+  <li>Kayak the canal</li>
+  <li>Bouldering</li>
+  <li>Walking over the O2</li>
+  <li>Zombie apocalypse paintball</li>
+  <li>White water rafting - Lea Valley Olympic Centre</li>
+  <li>Circus class - Shoreditch circus school</li>
+  <li>Segway games - Crystal Palace</li>
+  <li>Graffiti master class</li>
+  <li>Pizza making</li>
+  <li>Axe throwing</li>
+  <li>Murder mystery</li>
+  <li>Sushi making</li>
+  <li>Life drawing (highly recommended)</li>
+  <li>Still life drawing</li>
+  <li>Ghost bus tour of london</li>
+  <li>Jack the ripper tour</li>
+  <li>Bowls @ Moorgate bowls <a href="https://www.openplay.co.uk/view/1717/finsbury-square">link</a></li>
+  <li>Cocktail class</li>
+  <li>Curry on Brick Lane (super simple… but always really enjoyable)</li>
+  <li>Lunch &amp; visit to Shoreditch farm</li>
+  <li>Improv master class</li>
+  <li>Comedy Club (always brilliant)</li>
+  <li>The “board games” cafe - fun</li>
+  <li>Trampoline park (there are a bunch of different ones)</li>
+  <li>Duck herding using sheepdogs</li>
+  <li>Firefighting - Goodwood</li>
+  <li><a href="https://www.google.co.uk/search?client=safari&amp;hl=en-gb&amp;q=Canalside+Centre+London&amp;ludocid=4936904411986747106&amp;ibp=gwp;0,7&amp;lqi=ChprYXlha2luZyBhdCBsYWRicm9rZSBncm92ZRnwFt__qwYkSg&amp;sa=X&amp;ved=2ahUKEwjI4-qu8YfeAhVjKsAKHUTQCNUQvS4wAXoECAoQRQ">Kayaking from Ladbroke Grove</a></li>
+  <li>VR team building experiences (e.g. <a href="https://www.steamedegg.io/">Steamed Egg</a>. You can create paint works collaboratively, play various games against or with each other, do mindfulness sessions and more)</li>
+  <li>Rent an old mansion in the countryside and stay there for one night - arrange everything yourselves (cooking etc), creates sense of team bonding</li>
+  <li>Skiing + apres skiing (in austria)</li>
+  <li>Crazy golf (always a winner)</li>
+  <li>Polo lesson + bbq</li>
+  <li>Wall climbing</li>
+  <li>Adult ball pit in Shoreditch</li>
+  <li>Treasure hunt across London following clues</li>
+  <li>Paintball at Upminster</li>
+  <li>Junk Yard Golf just off Brick Lane</li>
+  <li>Tayyabs curry</li>
+  <li>Urban Photography course around Old St area (this was great, loads of hidden curios and ends in a fish and chip shop run by the same guy for 30 years. Oh and you get some great technique advice).</li>
 </ul>
 
       <div class="page-footer">
         <div class="page-share">
-          <a href="https://twitter.com/intent/tweet?text=How to Edit your GitHub-hosted Jekyll Blog&url=http://localhost:4000/how-to-edit-your-github-hosted-jekyll-blog" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-          <a href="https://facebook.com/sharer.php?u=http://localhost:4000/how-to-edit-your-github-hosted-jekyll-blog" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-          <a href="https://plus.google.com/share?url=http://localhost:4000/how-to-edit-your-github-hosted-jekyll-blog" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
+          <a href="https://twitter.com/intent/tweet?text=Team Activities&url=http://localhost:4000/team-activities" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
+          <a href="https://facebook.com/sharer.php?u=http://localhost:4000/team-activities" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
+          <a href="https://plus.google.com/share?url=http://localhost:4000/team-activities" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
         </div>
         <div class="page-tag">
           
-            <a href="/blog/tags#How-to" class="tag">&#35; How-to</a>
+            <a href="/blog/tags#Business" class="tag">&#35; Business</a>
+          
+            <a href="/blog/tags#People" class="tag">&#35; People</a>
+          
+            <a href="/blog/tags#HR" class="tag">&#35; HR</a>
+          
+            <a href="/blog/tags#Events" class="tag">&#35; Events</a>
           
         </div>
       </div>
