@@ -76,3 +76,6 @@ Here are some ideas for (mainly London-based) team activities:
 - Summer sports day & picnic
 - Street art tour
 - Ping pong and/or pool tournament
+- Darts at Flight Club
+- Great London Bake-off (this was in Tooting during the summer)
+- Boat trip in Regent's Canal
