@@ -10,9 +10,10 @@ tags: [How-to]
 So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add new posts? You've found just the right blog post then! The first thing you need to do is set up your development environment.
 * Download [GitHub Desktop](https://desktop.github.com/)
 * Download [Atom](https://atom.io/)
-* Clone your GitHub blog repository
+* Download your blog to your computer by going to https://github.com/ and going to your specific repository
   * It should look something like this: https://github.com/[GitHub-username-or-Organisation-name]/blog/
-  * To clone click the green **Clone or download** button.
+  * To clone click the green **Clone or download** button and then click **Open in Desktop**
+  * You might be prompted to log into your GitHub account
 * If you're collaborating on the project and it's been a while since you cloned then make sure to click **Fetch origin** in GitHub Desktop before making any edits
 * Open Atom and open your blog folder, it should be sitting inside your computer's GitHub folder
 * Open the posts folder (note that it has an underscore before its name)
@@ -20,7 +21,7 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
 * You'll be prompted to rename the file
   * Update the date (YYYY-MM-DD)
   * Update the name of the post (be sure to add dashes where there should be spaces and omit capitalisation and punctuation)
-  * Note that each post is a Markdown file and so must end with the file extension .md
+  * Note that each post is a Markdown file and so must end with the correct file extension (.md or .markdown)
 * Open the file and edit the details in the top of the file
   * Title - Title of your post
   * Date - current date
@@ -36,7 +37,7 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
   * Save the image that you want to use into the img folder (can be found under assets)
   * Update the data at the top of your md file blog post to include the name of the image file
   * Make sure the name and file extension are an exact match (including capitalisation e.g. .png/.PNG/.jpg/.JPG/.jpeg/.JPEG) otherwise your image might not show
-* Save your md file (Ctrl + s)
+* Save your md file (Ctrl + s on Windows or Command + s on Mac)
 * Open GitHub Desktop
 * Add a **Summary** of the changes in the input box in the bottom left, e.g. New blog post about cute dogs
 * Click the **Commit to master** button
