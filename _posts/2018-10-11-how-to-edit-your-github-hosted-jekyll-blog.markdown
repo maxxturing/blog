@@ -42,3 +42,5 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
 * Add a **Summary** of the changes in the input box in the bottom left, e.g. New blog post about cute dogs
 * Click the **Commit to master** button
 * Click the **Push origin** button
+
+And now your post should be online!
