@@ -44,3 +44,6 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
 * Click the **Push origin** button
 
 And now your post should be online!
+
+## Top tip
+* If you're using a device running Mac OS, keep your GitHub Desktop and Atom programs in your dock by right clicking on their icons when they are open and selecting "Keep in Dock"
