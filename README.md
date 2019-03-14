@@ -4,7 +4,8 @@ Personal website of Mark W. Firth
 
 Requirements:
 - Ruby
-- Jekyll
+- sudo gem install jekyll?
+- sudo gem install bundle?
 - gem 'jekyll-sitemap'
 - gem 'jekyll-paginate'
 - gem 'jemoji'
