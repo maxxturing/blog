@@ -29,7 +29,7 @@ So! You've got a Jekyll blog hosted on GitHub and you have no idea how to add ne
   * Tags - tags for grouping posts and searching
 * Underneath the content at the top (on a new line after the triple dash) you can start writing. If you've already written your post elsewhere then just paste it in.
 * Format your post
-  * If you want to hyperlink a word or phrase, surround it with square brackets and then immediately follow the square brackets (no spaces) with parenthesis including the URL
+  * If you want to hyperlink a word or phrase, surround it with square brackets and then immediately follow the square brackets (no spaces) with parenthesis including the URL ... like this: `[link](url)` ...o create a link that opens in a new window use `[link](url){:target="_blank"}` instead
   * If you want to make a word italics add an asterisk either side of it
   * If you want to make a word bold add two asterisks either side of it
   * For more formatting tips use this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -47,3 +47,4 @@ And now your post should be online!
 
 ## Top tip
 * If you're using a device running Mac OS, keep your GitHub Desktop and Atom programs in your dock by right clicking on their icons when they are open and selecting "Keep in Dock"
+* If you want to change all of your links to open in a new window the quick way to do this for all links in Atom is to press `command+f` and search `/)` replace them one-by-one or all at once with `/){:target="_blank"}`
