@@ -14,7 +14,7 @@ The purchase funnel, otherwise known as the sales funnel or the "path to purchas
 
 It's called a funnel as the idea is to move customers towards purchasing your product or service through various stages. The first stage having the widest reach and the following stages becoming more specialised and targeted, thus the customer population decreases through the stages.
 
-A number of factors will determine how you execute a marketing plan for your purchase funnel. Are you B2B or B2C? Have defined the specific group of people you want to sell your product or service to, i.e. your **target market**? Have you constructed a **situation analysis** to better understand your business' position and environment?
+A number of factors will determine how you execute a marketing plan for your purchase funnel. Are you B2B or B2C? Have you defined the specific group of people you want to sell your product or service to, i.e. your **target market**? Have you constructed a **situation analysis** to better understand your business' position and environment?
 
 Think about your current:
 * **Market share** - the percentage of customers / total spending / percentage total units sold

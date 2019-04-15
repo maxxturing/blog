@@ -10,9 +10,9 @@ tags: [Accounting, Education, Finance, Business]
 Financial modelling is the practice of building a representation of of a real-world financial situation. They are used across the financial services industry and as you can imagine, can be incredibly complex when dealing with billion dollar insurance companies for example.
 
 However, our use case is fortunately not as complex. Financial modelling for a startup is useful for a number of reasons, including:
-1. Giving you an idea of your **burn-rate** and therefore **runway** so you know how much cash you need in the bank
+1. Giving you an idea of your **burn rate** and therefore **runway** so you know how much cash you need in the bank
 2. Helping you optimise cashflow to ensure your assets are being utilised to their full advantage
-3. Securing capital from investors by providing a clear indication of the financial future of the business
+3. Securing capital from investors by providing a clear indication of the growth of the business
 
 We can break a financial model down into five key components:
 
@@ -32,7 +32,7 @@ We can break a financial model down into five key components:
 5. **Investment Model**
   - How fast and how large of a return can an investor expect?
 
-The stage your business is at will determine how complex of a financial model you'll need. If you're very early on you might just need the some classic revenue calculations on the back of a napkin. Or you might want to use a spreadsheet tool to quickly estimate your projected costs like below:
+The stage your business is at will determine how complex of a financial model you'll need. If you're **very** early on you might just need to jot down some revenue calculations on the back of a napkin. A little later and you might want to use a spreadsheet tool to quickly estimate your projected costs like below:
 
 ![Burn]({{site.baseurl}}/assets/img/burn.PNG)
 
