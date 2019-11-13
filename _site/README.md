@@ -1,6 +1,4 @@
-# markwf.github.io
-
-Personal website of Maxxwell Firth
+# maxxwellfirth.github.io
 
 Requirements:
 - Ruby
