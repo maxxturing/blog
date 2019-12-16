@@ -9,6 +9,10 @@ tags: [Web Development]
 
 <!-- <iframe src="https://docs.google.com/document/d/16mjPssG8UpSyuR8JX4YnQBOy3AQVPS_IffMr3gBOtEc/edit?rm=minimal" frameborder="0" style="overflow:hidden;height:2175px;width:100%"></iframe> -->
 
-<div style="width: 765px; height: 1712px; overflow: hidden; margin:auto">
+<div class="d-block d-md-none" style="width:100%;max-width:765px;height:1712px;overflow:hidden;margin:auto">
+<iframe src="https://docs.google.com/document/d/16mjPssG8UpSyuR8JX4YnQBOy3AQVPS_IffMr3gBOtEc/edit?rm=minimal" frameborder="0" style="overflow:hidden;height:2500px;max-width:800px;width:100%;position:relative;left:-19px;top:-91px"></iframe>
+</div>
+
+<div class="d-none d-md-block" style="width:100%;max-width:765px;height:1712px;overflow:hidden;margin:auto">
 <iframe src="https://docs.google.com/document/d/16mjPssG8UpSyuR8JX4YnQBOy3AQVPS_IffMr3gBOtEc/edit?rm=minimal" frameborder="0" style="overflow:hidden;height:2500px;width:800px;position:relative;left:-19px;top:-91px"></iframe>
 </div>
