@@ -7,4 +7,4 @@ img: landing-page.png # Add image post (optional)
 tags: [Web Development]
 ---
 
-<iframe src="https://docs.google.com/document/d/16mjPssG8UpSyuR8JX4YnQBOy3AQVPS_IffMr3gBOtEc/edit?rm=minimal" frameborder="0" style="overflow:hidden;height:2000px;width:100%"></iframe>
+<iframe src="https://docs.google.com/document/d/16mjPssG8UpSyuR8JX4YnQBOy3AQVPS_IffMr3gBOtEc/edit?rm=minimal" frameborder="0" style="overflow:hidden;height:2175px;width:100%"></iframe>
