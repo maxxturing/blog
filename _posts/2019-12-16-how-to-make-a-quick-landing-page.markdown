@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make A Quick Landing Page
-date: 2019-12-16 12:00:00
+date: 2019-12-16 08:00:00
 description: # Add post description (optional)
 img: landing-page.png # Add image post (optional)
 tags: [Web Development]
