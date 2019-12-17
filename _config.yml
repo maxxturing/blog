@@ -1,6 +1,6 @@
 title: Maxxwell Firth
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website of Maxxwell Firth
+  Blog posts by Maxxwell Firth
 permalink: ':title'
 # permalink: ':title'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
