@@ -1242,10 +1242,10 @@
 .fa-long-arrow-up:before {
   content: "\f176";
 }
-.fa-long-arrow-left:before {
+.fa-long-arrow-alt-left:before {
   content: "\f177";
 }
-.fa-long-arrow-right:before {
+.fa-long-arrow-alt-right:before {
   content: "\f178";
 }
 .fa-apple:before {
