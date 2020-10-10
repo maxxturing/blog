@@ -1,16 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
-<body>
+  {% include head.html %}
+  <body>
+    <div class="wrapper-default">{{ content }}</div>
 
-  {% include nav.html %}
-
-  <div class="wrapper-default">
-    {{ content }}
-  </div>
-
-  {% include footer.html %}
-
-  {% include analytics.html %}
-</body>
+    {% include footer.html %} {% include analytics.html %}
+  </body>
 </html>
