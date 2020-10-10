@@ -1,6 +1,7 @@
-# maxxwellfirth.github.io
+# blog
 
 Requirements:
+
 - Ruby
 - sudo gem install jekyll?
 - sudo gem install bundle?
@@ -9,18 +10,20 @@ Requirements:
 - gem 'jemoji'
 
 Docs:
+
 - https://jekyllrb.com/
 - https://github.com/qwtel/hydejack/issues/8
 - https://stackoverflow.com/questions/10012181/bundle-install-returns-could-not-locate-gemfile
 
 bundle exec jekyll serve
 
-http://127.0.0.1:4000/
+http://127.0.0.1:4000/blog/
 
 Access token:
 https://www.instagram.com/oauth/authorize/?client_id=2f205830e2cd461aa9bd742c891589e0&redirect_uri=http://localhost&response_type=token&scope=public_content
 
 Mobile:
+
 - d-block d-md-none to hide on medium, large and extra large devices.
 - d-none d-md-block to hide on small and extra-small devices.
 
